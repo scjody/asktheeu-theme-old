@@ -1,6 +1,5 @@
 asktheeu-theme
 ==============
-<<<<<<< HEAD
 
 This is the AskTheEU theme for Alaveteli. The intention is to 
 support simple overlaying of templates and resources without the 
@@ -32,5 +31,3 @@ To uninstall:
 
 The symbolic link created during the installation will be removed 
 automatically.
-=======
->>>>>>> 309460e537f0ea24bbea700564828872cbfbf859
