@@ -5,6 +5,10 @@ This is the AskTheEU theme for Alaveteli. The intention is to
 support simple overlaying of templates and resources without the 
 need to touch the core Alaveteli software.
 
+NOTE: this repository is based on a fork of the old
+acess-info/asktheeu-theme repository.  A new repository that forks the
+current repository will be created so I can submit pull requests...
+
 This theme contains:
 
  * CSS-based customisations in lib/views/general/custom_css.rhtml
